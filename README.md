@@ -4,8 +4,8 @@ Learning napari
 
 ## What have I done? (installation)
 * Install Python 3.11 to `C:\Program Files\Python\Python311`
-* Create this repository on github
-* Clone it to my local drive
+* (optional) Create this repository on github
+* (optional) Clone it to my local drive
 * Create a python 3.11 venv
   * Open cmd run `cd C:\Program Files\Python\Python311`
   * Run `python -m venv C:\GitRepos\cbias_napari_2023\venv`

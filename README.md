@@ -26,7 +26,7 @@ One word: Deeplearning. It all lives in Python, so moving from FIJI to Napari wi
 * Install napari: `pip install napari[all]`
 * Install jupyter notebook: `pip install notebook`
 * Start jupyter notebook: `jupyter notebook`
-* Test the example notebook and see that napari starts
+* Test the [example notebook](notebooks/First_Test.ipynb) and see that napari starts
 * Install stardist and cellpose plugin via the Napari GUI
   (note: I did this before the workshop. At the workshop it turned out they recommend conda.)
 
